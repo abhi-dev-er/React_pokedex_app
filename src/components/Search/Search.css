@@ -1,0 +1,14 @@
+.search-box{
+    margin: 0 auto;
+}
+
+
+#pokemon-search{
+    width: 600px;
+    margin-top: 2rem;
+    padding: 1rem;
+    border: 2px solid green;
+    outline: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
