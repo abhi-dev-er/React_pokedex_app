@@ -1,0 +1,27 @@
+.heading{
+    margin: 0 auto;
+    letter-spacing: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+}
+
+.box{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    background-color: aqua;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 5px;
+}
+.poke-box{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    background-color: aqua;
+}
+#link{
+    text-decoration: none;
+}

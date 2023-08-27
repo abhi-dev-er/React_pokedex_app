@@ -6,9 +6,9 @@ import PokemonList from '../PokemonList/PokemonList'
 const Pokedex = () => {
   return (
     <div className='pokedex-box'>
-     <h1 id='heading'>Pokedex</h1>
-     <Search />
+      <Search />
      <PokemonList />
+    
     </div>
   )
 }
